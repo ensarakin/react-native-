@@ -1,4 +1,6 @@
-# react-native- React Native
+# react-native
+
+React Native Dünyası
 
 
 Cross Platform alanında React Native dünyasına ait çalışmlarımdır.
